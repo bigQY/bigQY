@@ -1,5 +1,12 @@
 ## Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bigQY&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+### Hi there 👋
+<div align="center">
+<span>  </span>
+<img height="170px" src="https://github-readme-stats.vercel.app/api?username=bigQY&show_icons=true&count_private==true" /><span>        </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bigQY&layout=compact&langs_count=8" />
+<span>  </span>
+</div>
+<div align="center">
+
 <!--START_SECTION:waka-->
 
 ```txt
